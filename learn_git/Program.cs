@@ -1,3 +1,4 @@
+//update_time: 2026-06-09 15:37:00
 using Scalar.AspNetCore; //添加此行在第1行
 var builder = WebApplication.CreateBuilder(args);
 
